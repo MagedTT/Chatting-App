@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pZAMWE5F0CSX3/3XeYq7h2llrx+X05gAajdr+JoJdLg=",
+  "Source": "ChattingAppAPI",
+  "BasePath": "_content/ChattingAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/animations": "^20.3.9",
+    "@microsoft/signalr": "^9.0.6",
+    "ngx-toastr": "^19.1.0"
+  }
+}
