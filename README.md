@@ -1,0 +1,1 @@
+# A simple chatting application using Angular for the frontend, ASP.NET Core Web API for the backend, and SignalR For real-time communication, where people can join different chatting rooms and talk to each other.
